@@ -11,25 +11,25 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Red: hsl(0, 100%, 74%) 
-- Green: hsl(154, 59%, 51%)
-
-### Accent
-
-- Blue: hsl(248, 32%, 49%)
+Bright orange: hsl(31, 77%, 52%)
+Dark cyan: hsl(184, 100%, 22%)
+Very dark cyan: hsl(179, 100%, 13%)
 
 ### Neutral
 
-- Dark Blue: hsl(249, 10%, 26%) 
-- Grayish Blue: hsl(246, 25%, 77%)
+Transparent white (paragraphs): hsla(0, 0%, 100%, 0.75)
+Very light gray (background, headings, buttons):
 
 ## Typography
 
 ### Body Copy
 
-- Font size: 16px
+- Font size: 15px
 
 ### Font
 
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
-- Weights: 400, 500, 600, 700
+- Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
+- Weights: 400
+
+- Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
+- Weights: 700

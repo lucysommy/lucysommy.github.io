@@ -1,0 +1,54 @@
+body{
+    width: 1440px;
+}
+#container{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    margin-top: 12%;
+    font-size: 15px;
+}
+h1{
+    font-family: 'Big Shoulders Display', cursive; ;
+    color: hsla(0, 0%, 100%, 0.75) ;
+}
+p{
+    font-family: 'Lexend Deca', sans-serif; 
+    color: hsla(0, 0%, 100%, 0.75) ;
+}
+.sedan{
+ background-color:  hsl(31, 77%, 52%);
+ padding: 30px;
+ border-radius: 8px 0 0 8px; 
+}
+.suv {
+ background-color:  hsl(184, 100%, 22%);
+ padding: 30px;
+}
+.luxury{
+ background-color:  hsl(179, 100%, 13%);
+ padding: 30px;
+ border-radius: 0 8px 8px 0;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: hsl(0, 0%, 95%) ;
+    margin-top: 25px;
+    border-radius: 30px;
+    border: none;
+}
+    button:hover{
+    background-color:inherit;
+    border: 2px solid white;
+    cursor: pointer;
+    }
+nav{
+ font-size: 40px
+
+}
+nav a{background-color:white;
+    text-decoration: none;
+    border-radius: 2px;
+
+}
